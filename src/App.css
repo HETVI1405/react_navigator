@@ -1,0 +1,247 @@
+
+/* Home Page */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+  }
+  /* navbar */
+  .navbar{
+    background-color: #f0f2f5;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background-color: #ffffff;
+    padding: 4rem 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content {
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .hero-text {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .hero-text h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .hero-text p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 2rem;
+  }
+  
+  .cta-button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .hero-image {
+    flex: 1;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .hero-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Testimonial Section */
+  .testimonials {
+    background-color: #f0f2f5;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .testimonial-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .testimonial-card {
+    background-color: white;
+    padding: 1.5rem;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.07);
+    font-size: 0.95rem;
+    color: #444;
+  }
+  
+  .testimonial-card h4 {
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #111;
+  }
+  
+
+/* About PAge */
+.about-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    padding: 2rem;
+  }
+  
+  .about-hero {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  
+  .about-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-hero p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .about-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+  }
+  
+  .about-content {
+    flex: 1;
+    min-width: 280px;
+  }
+  
+  .about-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-content p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .about-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .about-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mission-section {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+  }
+  
+  .mission-section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .mission-section p {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    color: #555;
+  }
+  
+
+
+
+/* product Page */
+.products{
+ 
+    height: auto;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.product{
+    margin-top: 30px;
+    height: 400px;
+    width: 30%;
+}
+
+
+/* description */
+.description{
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.des-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart-btn{
+    width: 70%;
+    height: 40px;
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+
+
+/* form */
+form{
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+}
+input{
+  height: 40px;
+  padding-left: 20px;
+}
