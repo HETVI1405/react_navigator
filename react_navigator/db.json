@@ -1,0 +1,100 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Men's Denim Jacket",
+      "price": 2799,
+      "description": "Trendy men's denim jacket with slim fit design.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+    },
+    {
+      "id": 2,
+      "title": "Men's Polo T-Shirt",
+      "price": 999,
+      "description": "Casual polo t-shirt for everyday wear.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+    },
+    {
+      "id": 3,
+      "title": "Running Shoes",
+      "price": 3499,
+      "description": "Comfortable running shoes for men and women.",
+      "category": "men's clothing",
+      "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    },
+    {
+      "id": 4,
+      "title": "Women's Party Dress",
+      "price": 2299,
+      "description": "Elegant dress for parties and events.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpO6Xcjz0YnnDL1vUdjh8u-g1kJFMxgWeTpxkhhKdrwVz0cfVnZGQOiUionYIuR7Gb0t7lzBzltgh9F3Y4wcUgZfL0-wa8AGpAEnXYynxE53_S0zWXwPAm17vrHs-GakvNHi-CSXnyLqaL&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "title": "Women's Handbag",
+      "price": 3799,
+      "description": "Stylish leather handbag with long strap.",
+      "category": "women's clothing",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0JyogLeoIziY5NP7bA1tTsuhmw0bUIKTC2rz4e1gHfUnV9Y-dKyz4EQsBsT-FdRqT6BQQG2qqShdzwXgMUr-DyPAvKZ18Jz-0alllDFRt2wQn2EApIUQPGUMRjjf72GmJWErDa6gIRP4&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "title": "Women's Sandals",
+      "price": 1999,
+      "description": "Comfortable and stylish sandals for women.",
+      "category": "women's clothing",
+      "image": "https://www.jiomart.com/images/product/original/rvpbsqulex/shoe-lab-women-s-comfortable-peach-sandal-footwear-for-women-sandals-for-women-wedges-for-women-heels-for-women-non-returnable-product-images-rvpbsqulex-0-202311071212.jpg?im=Resize=(500,630)"
+    },
+    {
+      "id": 7,
+      "title": "Bluetooth Speaker",
+      "price": 2499,
+      "description": "Portable speaker with crystal clear sound.",
+      "category": "electronics",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/MainImage.jpg?v=1718989527"
+    },
+    {
+      "id": 8,
+      "title": "Latest Smartphone",
+      "price": 18999,
+      "description": "High-performance smartphone with advanced features.",
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": 9,
+      "title": "Smartwatch Pro",
+      "price": 5999,
+      "description": "Smartwatch with heart rate monitoring and GPS.",
+      "category": "electronics",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ3jMKey7paGHcF8iFHuZ9SFseCmOdVADXj6KBTowd4FEK15FEaNc0M6-qYtQ5y_oDKoTol9RGah57xnOS_X4SLQJ1Av3kWfxyRjerg_LRh178wwGGSX80JDA"
+    },
+    {
+      "id": 10,
+      "title": "Pearl Necklace",
+      "price": 3999,
+      "description": "Elegant pearl necklace for women.",
+      "category": "jewelry",
+      "image": "https://www.sneharateria.com/cdn/shop/files/PearlNecklacewithElegantCZDiamond_EmeraldPendantcopy_1200x1200.jpg?v=1712762494"
+    },
+    {
+      "id": 11,
+      "title": "Diamond Earrings",
+      "price": 12999,
+      "description": "Shiny diamond earrings for special occasions.",
+      "category": "jewelry",
+      "image": "https://blingvine.com/cdn/shop/products/jeenal-crystal-danglers-earrings-blingvine-802180_750x.jpg?v=1636534663"
+    },
+    {
+      "id": 12,
+      "title": "Gold Bracelet",
+      "price": 4999,
+      "description": "Gold-plated bracelet with fine finishing.",
+      "category": "jewelry",
+      "image": "https://www.darjewellery.com/product_image/s1200__aHR0cHM6Ly9tZWRpYS5kYXJqZXdlbGxlcnkuaW4vcHJvZHVjdF9pbWFnZXMvczEyMDBfXzE3MTI1NzUzNzU1NTAuanBn"
+    }
+  ]
+}
